@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+healthcare.db
+
+.streamlit/
+
+.ipynb_checkpoints/
+
+models/*.pkl
+
+.DS_Store
