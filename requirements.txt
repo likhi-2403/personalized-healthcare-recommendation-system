@@ -6,3 +6,7 @@ joblib
 requests
 flask
 plotly
+reportlab
+openpyxl
+matplotlib
+seaborn
